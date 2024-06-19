@@ -1,0 +1,37 @@
+các câu lệnh git :
+
+-- config tài khoản 
+
+	git config --global user.name "âcsc"
+	git confi --global user.email "sadasdasd"
+
+-- tạo và làm việc trên nhánh develop:
+
+	git checkout develop : chuyển sang nhánh develop
+	git pull origin  develop : Cập nhật nhánh develop với phiên bản mới nhất từ remote
+	git checkout -b phong : Chuyển sang nhánh riêng của mình làm việc 
+
+-- thực hiện các thay đổi và commit : 
+
+	git add . : Thêm các thay đổi 
+	git commit -m " Add commit" : Commit các thay đổi 
+
+-- Đẩy thay đổi lên remote ; 
+
+	git push -u origin phong : đẩy tất cả code lên nhánh làm việc 
+
+-- Cập nhật và đồng bộ nhánh của bạn với develop 
+
+	git checkout develop : Chuyển sang nhanh develop 
+	git pull origin develop : cập nhật nhánh develop với phiên bản mới nhất
+
+-- quay lại nhánh của mình và merge thay đổi từ develop 
+	
+	git checkout phong : quay lại nhánh của mình
+	git merge develop : merge những thay đổi từ develop
+
+-- Giải quyết nếu conflict 
+
+	Thay đổi lại code và thực hiện lại các lệnh add và commit rồi push  lên nhánh của minh
+
+	

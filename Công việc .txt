@@ -1,0 +1,22 @@
+Công việc: 
+
+Thuần
+- Thiết kế màn Danh sách nhân viên ( đầy đủ các thao tác để chuyển hướng trang sáng các view edit ,....)
+- Thiết kế lại menu sidebar ( đầy đủ các trang đã liệt kê ở đây )
+- Thiết kế màn CRUD : Thông tin về phụ cấp  *
+- Thiêt kế màn CRUD : Thông tin về Quá tình bảo hiểm *
+
+Hải
+- Thiết kế màn CRUD : Thông tin cá nhân cơ bản 
+- Thiết kế màn CRUD : Thông tin hợp đồng lao động 
+- Thiết kế màn CRUD : Thông tin về  quá trình lương 
+
+
+Toàn
+- Thiết kế màn CRUD : Thông tin hồ sơ lý lịch 
+- Thiết kế màn CRUD : Thông tin vè trình độ học vấn 
+
+
+Phong
+- Thiêt kế màn CRUD : Thông tin về bản thân và git commiquan hệ gia đình
+- Thiêt kế màn CRUD : Thông tin về Quá trình công tác 
